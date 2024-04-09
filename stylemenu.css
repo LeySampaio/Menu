@@ -147,13 +147,18 @@ h1 {
     text-align: center;
     padding: 5px;
   }
+
+  .menu-nav h1 {
+    margin-top: -25px;
+  }
+
   .conteudo .grid-menu {
     display: grid;
     grid-template-columns: 1fr;
   }
   .conteudo .grid-lista {
     grid-template-columns: 1fr;
-    grid-gap: 10px;
+    grid-gap: 40px;
     list-style: none;
     padding: 0;
     margin-left: -18px;

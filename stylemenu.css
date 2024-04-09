@@ -65,7 +65,7 @@ h1 {
   padding: 10px 20px;
   margin: 5px;
   color: #000;
-  border: 2px solid #ecab0f;
+  border: 2px solid #ecaa0f;
   border-radius: 8px;
 }
 
@@ -80,6 +80,7 @@ h1 {
   font-size: 3rem;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
+  font-weight: 800;
   grid-column: 2 / 4;
   margin-top: 40px;
   color: #ecab0f;
@@ -160,7 +161,7 @@ h2::before {
 }
 
 .btn-voltar button a {
-  font-weight: 600;
+  font-weight: 700;
   color: #ecab0f;
   padding: 10px;
 }
